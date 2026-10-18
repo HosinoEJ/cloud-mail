@@ -583,7 +583,7 @@ path[fill="#ffdda1"] {
 
   .item {
     background-color: var(--el-bg-color);
-    border-radius: 8px;
+    border-radius: 20px;
     padding: 10px;
     margin-bottom: 11px;
     margin-left: 10px;

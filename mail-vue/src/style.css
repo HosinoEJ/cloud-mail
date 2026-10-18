@@ -143,6 +143,12 @@ button, input, select, textarea {
     --vt-y: 50%;
     --vt-duration: 520ms;
     --vt-easing: ease-out;
+
+    /*自个加的私货*/
+    --el-border-radius-base: 12px;
+    .el-notification {
+        border-radius: 30px;
+    }
 }
 
 .dark {

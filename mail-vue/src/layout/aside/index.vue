@@ -85,7 +85,7 @@ const route = useRoute();
 .title {
   margin: 15px 10px;
   height: 45px;
-  border-radius: 6px;
+  border-radius: 15px;
   display: flex;
   position: relative;
   font-size: 16px;

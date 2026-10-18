@@ -411,7 +411,7 @@ function openAdd() {
 
     .code-item {
       background: var(--el-bg-color);
-      border-radius: 8px;
+      border-radius: 20px;
       border: 1px solid var(--el-border-color);
       transition: all 200ms;
       padding: 15px;

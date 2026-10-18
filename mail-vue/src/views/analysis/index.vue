@@ -778,7 +778,7 @@ function createSendGauge() {
 
     .number-item {
       background: var(--el-bg-color);
-      border-radius: 8px;
+      border-radius: 20px;
       border: 1px solid var(--el-border-color);
       padding: 21px 20px;
 
@@ -864,7 +864,7 @@ function createSendGauge() {
 
     .picture-item {
       background: var(--el-bg-color);
-      border-radius: 8px;
+      border-radius: 20px;
       border: 1px solid var(--el-border-color);
 
       .source-button {
@@ -904,7 +904,7 @@ function createSendGauge() {
 
     .picture-cs-item {
       background: var(--el-bg-color);
-      border-radius: 8px;
+      border-radius: 20px;
       border: 1px solid var(--el-border-color);
 
       .send-count {
